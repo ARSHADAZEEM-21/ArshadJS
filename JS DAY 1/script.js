@@ -84,3 +84,4 @@ let subTotal = books*3 + pen*2 + bag;
 
 console.log(`subtotal : ${subTotal}`)
 console.log(`discount : ${subTotal/10}`)
+console.log(`total : ${subTotal - subTotal/10}`)
